@@ -1,0 +1,12 @@
+{
+  "id": ".",
+  "name": "So‘zLab AI — Inglizcha lug‘at",
+  "short_name": "So‘zLab AI",
+  "description": "Inglizcha so‘zlarni saqlash, talaffuz qilish va takrorlash.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1423",
+  "theme_color": "#101a2b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
